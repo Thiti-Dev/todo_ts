@@ -1,0 +1,4 @@
+##ignoring all files that are js file , use ts-node instead for the new generated one
+*.js
+/node_modules
+package-lock.json
